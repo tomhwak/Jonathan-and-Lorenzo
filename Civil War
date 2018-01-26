@@ -1,15 +1,25 @@
 <DOCTYPE!> 
 
-<html>
-		<title> The Bloodiest War   </title>
-  	</head>
-  	<body>
-		<h1 align = "center"> The Civil War </h1>
-  		<p> <hr/> </p>
-  		<p> <strong> The American Civil War started from 1861-1865. This was the bloodiest civil war in the United States with 
-  		644,000 caualites both troops and civilian wise. The Civil War alll started with the contreversy between the North states
-  		and the South states abut slavery. At the time of the civil war both the North and the South knew what thery were up against
-  		if one lost to the other it could cange the tide of war and the history of the U.S</strong></p>
- 		<p><img src="https://images.dailykos.com/images/315110/story_image/civil_war_image_%281%29.jpeg?1476986421" height="450px" width="700px" border="2px" alt="" /> </p>
-  	</body>
-  </html>
+    <html>
+            <title> The Bloodiest War   </title>
+          </head>
+          <body>
+            <h1 align = "center"> The Civil War </h1>
+              <p> <hr/> </p>
+              <p> <strong> The American Civil War started from 1861-1865. This was the bloodiest civil war in the United States with 
+              644,000 caualites both troops and civilian wise. The Civil War alll started with the contreversy between the North states
+              and the South states abut slavery. At the time of the civil war both the North and the South knew what thery were up against
+              if one lost to the other it could cange the tide of war and the history of the U.S</strong></p>
+             <p><img src="https://images.dailykos.com/images/315110/story_image/civil_war_image_%281%29.jpeg?1476986421" height="450px" width="700px" border="2px" alt="" /> </p>
+             <H2 align = "center" > The North Side  </H2>
+             <p> <hr/> </p>
+             <p> <strong> The North side was against slavery with the favor of president Abraham Lincoln and congress they make up all the Nothern
+                 states such as Maine,New Jesrsey and much more. The North had the higher advangtage over the south in supplies, weaponry, 
+                and training however te South was not to be messed with although almost the North side had all the advantage the south had more 
+                plain areas; or farm aland than the South. Eventhough the  Civil War is between the North and the Suoth some of te North East states
+                where woring with the North providing the backbone for the North side of the war. The North side was also nickname the Union as i mentioned earlier
+                they where against slavery, however after the war slavery was not a problem if not rights of the African Americans and racism was a big problem.
+                at the end the North side ended up wining the war. </strong></p>
+                <p> <img src= "http://cdn.history.com/sites/2/2013/11/Battle-of-Cold-Harbor-Hero-H.jpeg" height= " 450px" width="700px" border="2px" alt="" /> <</p>
+          </body>
+      </html>
